@@ -1,0 +1,16 @@
+1765441186: mosquitto version 2.0.22 starting
+1765441186: Config loaded from /mosquitto/config/mosquitto.conf.
+1765441186: Opening ipv4 listen socket on port 1883.
+1765441186: Opening ipv6 listen socket on port 1883.
+1765441186: mosquitto version 2.0.22 running
+1765441597: New connection from 172.19.0.1:39838 on port 1883.
+1765441597: New client connected from 172.19.0.1:39838 as postman-mqtt-client-1765441596882 (p5, c0, k60).
+1765441597: No will message specified.
+1765441597: Sending CONNACK to postman-mqtt-client-1765441596882 (0, 0)
+1765441597: Received SUBSCRIBE from postman-mqtt-client-1765441596882
+1765441597: 	TopicControle (QoS 0)
+1765441597: postman-mqtt-client-1765441596882 0 TopicControle
+1765441597: Sending SUBACK to postman-mqtt-client-1765441596882
+1765441656: Received PUBLISH from postman-mqtt-client-1765441596882 (d0, q0, r0, m0, 'TopicControle', ... (28 bytes))
+1765441656: Sending PUBLISH to postman-mqtt-client-1765441596882 (d0, q0, r0, m0, 'TopicControle', ... (28 bytes))
+1765441705: mosquitto version 2.0.22 terminating
