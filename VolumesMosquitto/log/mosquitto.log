@@ -306,3 +306,123 @@
 1765446744: Sending PINGRESP to mqttx_ba93f4f0
 1765446763: Received PINGREQ from auto-40040404-74B1-29B5-0200-662B2F221817
 1765446763: Sending PINGRESP to auto-40040404-74B1-29B5-0200-662B2F221817
+1765446804: Received PINGREQ from mqttx_ba93f4f0
+1765446804: Sending PINGRESP to mqttx_ba93f4f0
+1765446823: Received PINGREQ from auto-40040404-74B1-29B5-0200-662B2F221817
+1765446823: Sending PINGRESP to auto-40040404-74B1-29B5-0200-662B2F221817
+1765446864: Received PINGREQ from mqttx_ba93f4f0
+1765446864: Sending PINGRESP to mqttx_ba93f4f0
+1765446883: Received PINGREQ from auto-40040404-74B1-29B5-0200-662B2F221817
+1765446883: Sending PINGRESP to auto-40040404-74B1-29B5-0200-662B2F221817
+1765446924: Received PINGREQ from mqttx_ba93f4f0
+1765446924: Sending PINGRESP to mqttx_ba93f4f0
+1765446943: Received PINGREQ from auto-40040404-74B1-29B5-0200-662B2F221817
+1765446943: Sending PINGRESP to auto-40040404-74B1-29B5-0200-662B2F221817
+1765446986: Received PINGREQ from mqttx_ba93f4f0
+1765446986: Sending PINGRESP to mqttx_ba93f4f0
+1765447003: Received PINGREQ from auto-40040404-74B1-29B5-0200-662B2F221817
+1765447003: Sending PINGRESP to auto-40040404-74B1-29B5-0200-662B2F221817
+1765447029: Received DISCONNECT from auto-40040404-74B1-29B5-0200-662B2F221817
+1765447029: Client auto-40040404-74B1-29B5-0200-662B2F221817 disconnected.
+1765447030: mosquitto version 2.0.22 terminating
+1765447030: Client mqttx_ba93f4f0 closed its connection.
+1765447034: mosquitto version 2.0.22 starting
+1765447034: Config loaded from /mosquitto/config/mosquitto.conf.
+1765447034: Opening ipv4 listen socket on port 1883.
+1765447034: Opening ipv6 listen socket on port 1883.
+1765447034: Opening websockets listen socket on port 9005.
+1765447034: mosquitto version 2.0.22 running
+1765447034: New client connected from ::ffff:172.19.0.1:50150 as mqttx_ba93f4f0 (p5, c1, k60).
+1765447034: No will message specified.
+1765447034: Sending CONNACK to mqttx_ba93f4f0 (0, 0)
+1765447034: Received SUBSCRIBE from mqttx_ba93f4f0
+1765447034: 	BTS/# (QoS 0)
+1765447034: mqttx_ba93f4f0 0 BTS/#
+1765447034: Sending SUBACK to mqttx_ba93f4f0
+1765447036: New connection from 172.19.0.5:42658 on port 1883.
+1765447036: New client connected from 172.19.0.5:42658 as auto-9E8A56F2-D43D-EAB6-1963-0FC67E0AA7B3 (p2, c1, k60).
+1765447036: No will message specified.
+1765447036: Sending CONNACK to auto-9E8A56F2-D43D-EAB6-1963-0FC67E0AA7B3 (0, 0)
+1765447036: Received SUBSCRIBE from auto-9E8A56F2-D43D-EAB6-1963-0FC67E0AA7B3
+1765447036: 	# (QoS 0)
+1765447036: auto-9E8A56F2-D43D-EAB6-1963-0FC67E0AA7B3 0 #
+1765447036: Sending SUBACK to auto-9E8A56F2-D43D-EAB6-1963-0FC67E0AA7B3
+1765447054: Received SUBSCRIBE from mqttx_ba93f4f0
+1765447054: 	CIEL/# (QoS 0)
+1765447054: mqttx_ba93f4f0 0 CIEL/#
+1765447054: Sending SUBACK to mqttx_ba93f4f0
+1765447066: Received PUBLISH from mqttx_ba93f4f0 (d0, q0, r0, m0, 'CIEL', ... (2 bytes))
+1765447066: Sending PUBLISH to mqttx_ba93f4f0 (d0, q0, r0, m0, 'CIEL', ... (2 bytes))
+1765447066: Sending PUBLISH to auto-9E8A56F2-D43D-EAB6-1963-0FC67E0AA7B3 (d0, q0, r0, m0, 'CIEL', ... (2 bytes))
+1765447096: Received PINGREQ from auto-9E8A56F2-D43D-EAB6-1963-0FC67E0AA7B3
+1765447096: Sending PINGRESP to auto-9E8A56F2-D43D-EAB6-1963-0FC67E0AA7B3
+1765447127: Received PINGREQ from mqttx_ba93f4f0
+1765447127: Sending PINGRESP to mqttx_ba93f4f0
+1765447156: Received PINGREQ from auto-9E8A56F2-D43D-EAB6-1963-0FC67E0AA7B3
+1765447156: Sending PINGRESP to auto-9E8A56F2-D43D-EAB6-1963-0FC67E0AA7B3
+1765447188: Received PINGREQ from mqttx_ba93f4f0
+1765447188: Sending PINGRESP to mqttx_ba93f4f0
+1765447215: Received PINGREQ from auto-9E8A56F2-D43D-EAB6-1963-0FC67E0AA7B3
+1765447215: Sending PINGRESP to auto-9E8A56F2-D43D-EAB6-1963-0FC67E0AA7B3
+1765447235: Received DISCONNECT from auto-9E8A56F2-D43D-EAB6-1963-0FC67E0AA7B3
+1765447235: Client auto-9E8A56F2-D43D-EAB6-1963-0FC67E0AA7B3 disconnected.
+1765447236: mosquitto version 2.0.22 terminating
+1765447236: Client mqttx_ba93f4f0 closed its connection.
+1765447241: mosquitto version 2.0.22 starting
+1765447241: Config loaded from /mosquitto/config/mosquitto.conf.
+1765447241: Opening ipv4 listen socket on port 1883.
+1765447241: Opening ipv6 listen socket on port 1883.
+1765447241: Opening websockets listen socket on port 9005.
+1765447241: mosquitto version 2.0.22 running
+1765447242: New client connected from ::ffff:172.19.0.1:60384 as mqttx_ba93f4f0 (p5, c1, k60).
+1765447242: No will message specified.
+1765447242: Sending CONNACK to mqttx_ba93f4f0 (0, 0)
+1765447242: Received SUBSCRIBE from mqttx_ba93f4f0
+1765447242: 	BTS/# (QoS 0)
+1765447242: mqttx_ba93f4f0 0 BTS/#
+1765447242: Sending SUBACK to mqttx_ba93f4f0
+1765447242: Received SUBSCRIBE from mqttx_ba93f4f0
+1765447242: 	CIEL/# (QoS 0)
+1765447242: mqttx_ba93f4f0 0 CIEL/#
+1765447242: Sending SUBACK to mqttx_ba93f4f0
+1765447244: New connection from 172.19.0.6:33332 on port 1883.
+1765447244: New client connected from 172.19.0.6:33332 as auto-38272943-ECEE-78A2-ABA5-9F2AE5A5033B (p2, c1, k60).
+1765447244: No will message specified.
+1765447244: Sending CONNACK to auto-38272943-ECEE-78A2-ABA5-9F2AE5A5033B (0, 0)
+1765447244: Received SUBSCRIBE from auto-38272943-ECEE-78A2-ABA5-9F2AE5A5033B
+1765447244: 	# (QoS 0)
+1765447244: auto-38272943-ECEE-78A2-ABA5-9F2AE5A5033B 0 #
+1765447244: Sending SUBACK to auto-38272943-ECEE-78A2-ABA5-9F2AE5A5033B
+1765447302: Received PINGREQ from mqttx_ba93f4f0
+1765447302: Sending PINGRESP to mqttx_ba93f4f0
+1765447304: Received PINGREQ from auto-38272943-ECEE-78A2-ABA5-9F2AE5A5033B
+1765447304: Sending PINGRESP to auto-38272943-ECEE-78A2-ABA5-9F2AE5A5033B
+1765447317: Received DISCONNECT from auto-38272943-ECEE-78A2-ABA5-9F2AE5A5033B
+1765447317: Client auto-38272943-ECEE-78A2-ABA5-9F2AE5A5033B disconnected.
+1765447317: mosquitto version 2.0.22 terminating
+1765447317: Client mqttx_ba93f4f0 closed its connection.
+1765447324: mosquitto version 2.0.22 starting
+1765447324: Config loaded from /mosquitto/config/mosquitto.conf.
+1765447324: Opening ipv4 listen socket on port 1883.
+1765447324: Opening ipv6 listen socket on port 1883.
+1765447324: Opening websockets listen socket on port 9005.
+1765447324: mosquitto version 2.0.22 running
+1765447324: New client connected from ::ffff:172.19.0.1:59286 as mqttx_ba93f4f0 (p5, c1, k60).
+1765447324: No will message specified.
+1765447324: Sending CONNACK to mqttx_ba93f4f0 (0, 0)
+1765447324: Received SUBSCRIBE from mqttx_ba93f4f0
+1765447324: 	BTS/# (QoS 0)
+1765447324: mqttx_ba93f4f0 0 BTS/#
+1765447324: Sending SUBACK to mqttx_ba93f4f0
+1765447324: Received SUBSCRIBE from mqttx_ba93f4f0
+1765447324: 	CIEL/# (QoS 0)
+1765447324: mqttx_ba93f4f0 0 CIEL/#
+1765447324: Sending SUBACK to mqttx_ba93f4f0
+1765447326: New connection from 172.19.0.6:48834 on port 1883.
+1765447326: New client connected from 172.19.0.6:48834 as auto-9B0C87BC-8CC9-C381-C931-B91227EBE41D (p2, c1, k60).
+1765447326: No will message specified.
+1765447326: Sending CONNACK to auto-9B0C87BC-8CC9-C381-C931-B91227EBE41D (0, 0)
+1765447326: Received SUBSCRIBE from auto-9B0C87BC-8CC9-C381-C931-B91227EBE41D
+1765447326: 	# (QoS 0)
+1765447326: auto-9B0C87BC-8CC9-C381-C931-B91227EBE41D 0 #
+1765447326: Sending SUBACK to auto-9B0C87BC-8CC9-C381-C931-B91227EBE41D
