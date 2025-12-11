@@ -1,4 +1,4 @@
-services: 
+services:
   mqtt_broker: 
     image: eclipse-mosquitto 
     container_name: mqtt_mosquitto 
@@ -8,3 +8,10 @@ services:
       - ./VolumesMosquitto/config:/mosquitto/config 
       - ./VolumesMosquitto/data:/mosquitto/data 
       - ./VolumesMosquitto/log:/mosquitto/log
+  mqtt_clientweb:
+    image: emqx/mqttx-web
+    container_name: mqtt_mqttx-web
+    ports:
+      - "8082:80"
+    depends_on:
+      - mqtt_broker
