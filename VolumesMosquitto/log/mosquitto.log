@@ -31,3 +31,83 @@
 1765443148: Sending CONNACK to mqttx_ba93f4f0 (0, 0)
 1765443192: Received PUBLISH from mqttx_ba93f4f0 (d0, q0, r0, m0, 'TopicControle', ... (32 bytes))
 1765443227: Received PUBLISH from mqttx_ba93f4f0 (d0, q0, r0, m0, 'BTS', ... (32 bytes))
+1765443287: Received PINGREQ from mqttx_ba93f4f0
+1765443287: Sending PINGRESP to mqttx_ba93f4f0
+1765443348: Received PINGREQ from mqttx_ba93f4f0
+1765443348: Sending PINGRESP to mqttx_ba93f4f0
+1765443366: mosquitto version 2.0.22 terminating
+1765443366: Client mqttx_ba93f4f0 closed its connection.
+1765443375: mosquitto version 2.0.22 starting
+1765443375: Config loaded from /mosquitto/config/mosquitto.conf.
+1765443375: Opening ipv4 listen socket on port 1883.
+1765443375: Opening ipv6 listen socket on port 1883.
+1765443375: Opening websockets listen socket on port 9005.
+1765443375: mosquitto version 2.0.22 running
+1765443377: New client connected from ::ffff:172.19.0.1:36272 as mqttx_ba93f4f0 (p5, c1, k60).
+1765443377: No will message specified.
+1765443377: Sending CONNACK to mqttx_ba93f4f0 (0, 0)
+1765443438: Received PINGREQ from mqttx_ba93f4f0
+1765443438: Sending PINGRESP to mqttx_ba93f4f0
+1765443498: Received PINGREQ from mqttx_ba93f4f0
+1765443498: Sending PINGRESP to mqttx_ba93f4f0
+1765443558: Received PINGREQ from mqttx_ba93f4f0
+1765443558: Sending PINGRESP to mqttx_ba93f4f0
+1765443619: Received PINGREQ from mqttx_ba93f4f0
+1765443619: Sending PINGRESP to mqttx_ba93f4f0
+1765443710: Client mqttx_ba93f4f0 closed its connection.
+1765443837: New client connected from ::ffff:172.19.0.1:60830 as mqttx_ba93f4f0 (p5, c1, k60).
+1765443837: No will message specified.
+1765443837: Sending CONNACK to mqttx_ba93f4f0 (0, 0)
+1765443897: Client mqttx_ba93f4f0 closed its connection.
+1765443942: New client connected from ::ffff:172.19.0.1:37254 as mqttx_ba93f4f0 (p5, c1, k60).
+1765443942: No will message specified.
+1765443942: Sending CONNACK to mqttx_ba93f4f0 (0, 0)
+1765443942: Client mqttx_ba93f4f0 closed its connection.
+1765443946: New client connected from ::ffff:172.19.0.1:39056 as mqttx_ba93f4f0 (p5, c1, k60).
+1765443946: No will message specified.
+1765443946: Sending CONNACK to mqttx_ba93f4f0 (0, 0)
+1765444006: Received PINGREQ from mqttx_ba93f4f0
+1765444006: Sending PINGRESP to mqttx_ba93f4f0
+1765444044: Received PUBLISH from mqttx_ba93f4f0 (d0, q0, r0, m0, 'BTS', ... (17 bytes))
+1765444105: Received PINGREQ from mqttx_ba93f4f0
+1765444105: Sending PINGRESP to mqttx_ba93f4f0
+1765444120: Received PUBLISH from mqttx_ba93f4f0 (d0, q1, r0, m29124, 'BTS', ... (17 bytes))
+1765444120: Sending PUBACK to mqttx_ba93f4f0 (m29124, rc16)
+1765444157: Received PUBLISH from mqttx_ba93f4f0 (d0, q1, r0, m29125, 'BTS', ... (32 bytes))
+1765444157: Sending PUBACK to mqttx_ba93f4f0 (m29125, rc16)
+1765444217: Received PINGREQ from mqttx_ba93f4f0
+1765444217: Sending PINGRESP to mqttx_ba93f4f0
+1765444278: Received PINGREQ from mqttx_ba93f4f0
+1765444278: Sending PINGRESP to mqttx_ba93f4f0
+1765444339: Received PINGREQ from mqttx_ba93f4f0
+1765444339: Sending PINGRESP to mqttx_ba93f4f0
+1765444400: Received PINGREQ from mqttx_ba93f4f0
+1765444400: Sending PINGRESP to mqttx_ba93f4f0
+1765444461: Received PINGREQ from mqttx_ba93f4f0
+1765444461: Sending PINGRESP to mqttx_ba93f4f0
+1765444500: mosquitto version 2.0.22 terminating
+1765444500: Client mqttx_ba93f4f0 closed its connection.
+1765444507: mosquitto version 2.0.22 starting
+1765444507: Config loaded from /mosquitto/config/mosquitto.conf.
+1765444507: Opening ipv4 listen socket on port 1883.
+1765444507: Opening ipv6 listen socket on port 1883.
+1765444507: Opening websockets listen socket on port 9005.
+1765444507: mosquitto version 2.0.22 running
+1765444512: New client connected from ::ffff:172.19.0.1:53560 as mqttx_ba93f4f0 (p5, c1, k60).
+1765444512: No will message specified.
+1765444512: Sending CONNACK to mqttx_ba93f4f0 (0, 0)
+1765444563: mosquitto version 2.0.22 terminating
+1765444563: Client mqttx_ba93f4f0 closed its connection.
+1765444567: mosquitto version 2.0.22 starting
+1765444567: Config loaded from /mosquitto/config/mosquitto.conf.
+1765444567: Opening ipv4 listen socket on port 1883.
+1765444567: Opening ipv6 listen socket on port 1883.
+1765444567: Opening websockets listen socket on port 9005.
+1765444567: mosquitto version 2.0.22 running
+1765444568: New client connected from ::ffff:172.19.0.1:38540 as mqttx_ba93f4f0 (p5, c1, k60).
+1765444568: No will message specified.
+1765444568: Sending CONNACK to mqttx_ba93f4f0 (0, 0)
+1765444629: Received PINGREQ from mqttx_ba93f4f0
+1765444629: Sending PINGRESP to mqttx_ba93f4f0
+1765444690: Received PINGREQ from mqttx_ba93f4f0
+1765444690: Sending PINGRESP to mqttx_ba93f4f0
